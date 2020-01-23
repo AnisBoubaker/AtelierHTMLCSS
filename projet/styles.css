@@ -1,0 +1,144 @@
+
+body {
+	background-color: #46494C;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+
+.conteneur_page {
+  	margin: auto;
+  	width: 80%;
+  	display: grid;
+  	grid-template-rows: 100px minmax(500px, auto) 30px;
+  	grid-template-columns: 20% auto 20%;
+  	grid-column-gap: 10px;
+  	background-color: #ffffff;
+  	border: 5px solid #4C5C68;
+  	border-radius: 20px;
+}
+
+header {
+	grid-column-start: 1;
+	grid-column-end: 4;
+	margin:0;
+	background-color: #4C5C68;
+	display: flex;
+	align-items: center;
+}
+
+header div{
+	flex-grow: 2;
+	padding: 20px;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 3em;
+}
+
+header img{
+	border-radius: 50%;
+	display: block;
+	flex-basis: 100px;
+}
+
+footer {
+	grid-column-start: 1;
+	grid-column-end: 4;
+	text-align: center;
+	background-color: #857C8D;
+	vertical-align: middle;
+	color: #ffffff;
+	padding: 5px;
+}
+
+nav{
+	background: #C5C3C6;
+	padding:0;
+	margin:0;
+}
+
+nav ul{
+	list-style: none;
+    padding-left: 0;
+}
+nav li{
+	background: #C5C3C6;
+	padding: 0px;
+}
+
+nav li:hover{
+	background: #DCDCDD;
+}
+
+nav li a{
+	text-decoration: none;
+	display: block;
+	color: #5C0029;
+	padding: 10px;
+}
+
+section{
+	padding-top: 10px;
+}
+
+section .intro{
+	padding-left: 30px;
+	padding-right: 10px;
+	text-align: justify;
+}
+
+	section .intro::first-letter{
+		-webkit-initial-letter: 3;
+  		initial-letter: 3;
+		font-weight: bold;
+  		color: #5C0029;
+  		initial-letter: 4;
+	}
+
+section h1{
+	color: #5C0029;
+	border-bottom: 2px solid #5C0029;
+}
+
+article {
+	border: 2px solid #000000;
+	border-radius: 5px;
+	margin: 10px 0 10px 0;
+	padding: 5px;
+}
+
+	article img.illustration{
+		float:right;
+		max-width:20%;
+	    height:auto;
+	}
+
+	article h2{
+		color: #5C0029;
+		font-size: 1.2em;
+		margin: 0;
+		padding:0;
+	}
+
+div#nouvelles{
+	background-color: #DCDCDD;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 20px;
+	font-size: 0.9em;
+}
+
+	div#nouvelles h1{
+		color: #5C0029;
+		font-size: 1.5em;
+	}
+
+	div#nouvelles aside{
+		border-bottom: 1px dashed #5C0029;
+	}
+
+	div#nouvelles span{
+		display: block;
+		font-style: italic;
+		color: #46494C;
+		font-size: 0.8em;
+	}

@@ -1,0 +1,580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dow",
+				"download_text"
+			],
+			[
+				"pre",
+				"preview_text"
+			],
+			[
+				"moodle",
+				"moodletools_gdriveLinks"
+			],
+			[
+				"dri",
+				"drive_getFileType"
+			],
+			[
+				"link_",
+				"link_class"
+			],
+			[
+				"real",
+				"realSpeeds"
+			],
+			[
+				"rea",
+				"realSpeed1"
+			],
+			[
+				"est",
+				"estimatedSpeed1"
+			],
+			[
+				"es",
+				"estimateSpeed"
+			],
+			[
+				"estima",
+				"estimatedSpeed1"
+			],
+			[
+				"reasl",
+				"realSpeeds"
+			],
+			[
+				"nb",
+				"nb_resultats"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"liste",
+				"liste_carres"
+			],
+			[
+				"liste_",
+				"liste_leslibraires"
+			],
+			[
+				"resul",
+				"resultat"
+			],
+			[
+				"lis",
+				"liste_renaudb"
+			],
+			[
+				"res",
+				"resultat"
+			],
+			[
+				"re",
+				"resultat"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"pr",
+				"personnage"
+			],
+			[
+				"et",
+				"etatInscription"
+			],
+			[
+				"id",
+				"idEtudiant"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"inscription",
+				"inscriptionValidee"
+			],
+			[
+				"insc",
+				"inscriptionValidee"
+			],
+			[
+				"disp",
+				"dispoRegulier"
+			],
+			[
+				"comp",
+				"compterInscriptionsAtelier"
+			],
+			[
+				"td",
+				"tbody\tTag"
+			],
+			[
+				"inf",
+				"infosAtelier"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"zone",
+				"zoneNum"
+			],
+			[
+				"fichier",
+				"fichier_ecriture"
+			],
+			[
+				"num",
+				"numEquipe"
+			],
+			[
+				"get",
+				"getListOfFiles"
+			],
+			[
+				"cur_liste",
+				"cur_liste_locations_nf"
+			],
+			[
+				"le_",
+				"le_total"
+			],
+			[
+				"La",
+				"la_facture"
+			],
+			[
+				"sor",
+				"sorted"
+			],
+			[
+				"index",
+				"index_not"
+			],
+			[
+				"index_",
+				"index_not"
+			],
+			[
+				"repl",
+				"replace"
+			],
+			[
+				"conte",
+				"contenu_courriel"
+			],
+			[
+				"cours",
+				"course_id"
+			],
+			[
+				"user_las",
+				"user_last_name"
+			],
+			[
+				"sess",
+				"session_id"
+			],
+			[
+				"da",
+				"dated_folder_name"
+			],
+			[
+				"visi",
+				"visio_model"
+			],
+			[
+				"visio_msg_cou",
+				"visio_msg_cours"
+			],
+			[
+				"visio_",
+				"visio_groupe"
+			],
+			[
+				"visio_msg_",
+				"visio_msg_courriel"
+			],
+			[
+				"visio_ms",
+				"visio_msg_nom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminus cl",
+				"Terminus: Close All"
+			],
+			[
+				"terminus key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"ter",
+				"Terminus: Close All"
+			],
+			[
+				"colore",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"color the",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminus",
+				"Terminus: Reset"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 180.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/GoogleDrive/My Drive/ETS/03_ProjetsPédagogiques/Ateliers/Scripts/courriels_inscrits.sql",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Charbel Nemer_789246_assignsubmission_file_/nemer_charbel_NEMC14019603.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Maxime Michaud_789250_assignsubmission_file_/MICHAUD_MAXIME_MICM26019709.C",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Émeric Messier_789216_assignsubmission_file_/MESSIER_EMERIC_MESE12099801.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Guillermo Alberto Martinez_789227_assignsubmission_file_/Martinez_Guillermo-Alberto_MARG04099307.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Benjamin Létourneau_789213_assignsubmission_file_/LETOURNEAU_benjamin_LETB03089701.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Charles-Antoine Leroux_789252_assignsubmission_file_/Leroux_Charles-Antoine_LERC28109605.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Nikenson Legagneur_789251_assignsubmission_file_/LEGAGNEUR_nikenson_LEGN22129608.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Jean-Elie Lebrun_789223_assignsubmission_file_/Lebrun_Jean-Elie_LEBJ22059108.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Félix Lavoie-Hamberger_789235_assignsubmission_file_/LAVOIE_felix_LAVF27049706.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Bryan Larocque_789236_assignsubmission_file_/Larocque_Bryan_LARB26078408.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Francis Haché-Miron_789220_assignsubmission_file_/HACHE_MIRON_francis_HACF14048802.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Bartosz Gmyrek_789242_assignsubmission_file_/GMYREK_bartosz_AN78640.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Thomas Giguère Sturrock_789241_assignsubmission_file_/GiguereSturrock_Thomas_GIGT05088909.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Alexandre Gerbeau_789226_assignsubmission_file_/GERBEAU_ALEXANDRE_GERA26059805.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Frantz Gadbois_789218_assignsubmission_file_/GADBOIS_frantz_gadf20109808.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Vincent Fortin Coderre_789245_assignsubmission_file_/FORTIN-CODERRE_vincent_FORV13079904.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Samuel Fortin_789244_assignsubmission_file_/FORTIN_samuel_FORS16128401.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Walter Mauricio Flores Araujo_789248_assignsubmission_file_/FloresAraujo_WalterMauricio_FLOW01039707.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Nicole Bianca Fernando_789228_assignsubmission_file_/Fernando_NicoleBianca_FERN15539708.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/David Favreau_789255_assignsubmission_file_/FAVREAU_DAVID_FAVD03129608.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Félix Dubé-Lavoie_789239_assignsubmission_file_/DUBE-LAVOIE_FELIX_DUBF29129804.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Charles Couture_789256_assignsubmission_file_/COUTURE_charles_COUC23129707.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Vincent Cloutier-Cyr_789238_assignsubmission_file_/Cloutier-Cyr_Vincent_CLOV10078902.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/François Cecchini_789231_assignsubmission_file_/Cecchini_Francois_CECF18029904.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Alexis Cadieux_789229_assignsubmission_file_/CADIEUX_Alexis_CADA02099906.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Nicholas Bradet_789225_assignsubmission_file_/bradet_nicholas_BRAN07049509.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Steve Bissa Oyono_789243_assignsubmission_file_/steve_bissa_oyono_BISS01038609.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Mathieu Bergeron_789253_assignsubmission_file_/BERGERON_mathieu_BERM20119703.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Mahdi Ataiei_789219_assignsubmission_file_/ATAIEI_mahdi_ATAM21039704.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF147/2020-1H/Examens de laboratoire/ExamLab1/RemisesGr1/Abdelmoula Anouar_789234_assignsubmission_file_/ABDELMOULA_anouar_ANOA04108408.C",
+		"/Users/anis/Downloads/exercice1.c",
+		"/Volumes/GoogleDrive/My Drive/ETS/01_Cours/INF155/2019-3A/BCAPG/Q1i1/2/Étudiant.txt",
+		"/Volumes/fsweb/enseignement/lesateliers/config.php",
+		"/Users/anis/MEGA/01_Cours/INF155/2019-3A/TP3/moss/gr1-K/Source.cpp",
+		"/Users/anis/tps/TP3/I_781502_assignsubmission_file_/mod_geo.cpp",
+		"/Users/anis/Downloads/pratique finale/pratique finale/main.c",
+		"/Users/anis/tmp/milaurin/mod_voie.c",
+		"/Users/anis/tmp/milaurin/main.c",
+		"/Volumes/fsweb/enseignement/lesateliers/PHPMailer/invite_mail/mail_inscription_normale.html",
+		"/Volumes/fsweb/enseignement/lesateliers/PHPMailer/invite_mail/mail_inscription_attente.html",
+		"/Volumes/fsweb/enseignement/lesateliers/PHPMailer/invite_mail/mail_desinscription.html",
+		"/Users/anis/MEGA/01_Cours/INF155/03-Ressources/Frederick/Final 2011/Question 2.c",
+		"/Users/anis/Desktop/consultation/divino-solver.py",
+		"/Volumes/fsweb/enseignement/lesateliers/test.html",
+		"/Users/anis/Downloads/TP3-FichiersFournis/mod_dessin.h",
+		"/Users/anis/MEGA/01_Cours/INF155/2019-3A/TP3/Énoncé/TP3-FichiersFournis/mod_dessin.h",
+		"/Users/anis/ateliers/AtelierPython/texte_bidon.txt",
+		"/Users/anis/ateliers/AtelierPython/projet/les_libraires.py",
+		"/Users/anis/ateliers/AtelierPython/utils/__init__.py",
+		"/Users/anis/ateliers/AtelierPython/prog_principal.py",
+		"/Users/anis/ateliers/AtelierPython/utils/mod_listes.py",
+		"/Users/anis/ateliers/AtelierPython/mod_math.py",
+		"/Users/anis/ateliers/AtelierPython/exceptions.py",
+		"/Users/anis/ateliers/AtelierPython/fichiers.py",
+		"/Users/anis/ateliers/AtelierPython/exercice_distance.py",
+		"/Users/anis/ateliers/AtelierPython/fonctions.py",
+		"/Users/anis/ateliers/AtelierPython/seance2.py",
+		"/Users/anis/Desktop/samuel.c",
+		"/Users/anis/ateliers/AtelierPython/copie_bidon.txt",
+		"/Users/anis/ateliers/AtelierPython/__sc/leslibraires.py",
+		"/Users/anis/ateliers/AtelierPython/__sc/renaud_bray.py",
+		"/Users/anis/ateliers/AtelierPython/__sc/comparatif.py",
+		"/Users/anis/ateliers/AtelierPython/__sc/test.py",
+		"/Users/anis/ateliers/AtelierPython/__sc/renaud-bray.py",
+		"/Users/anis/ateliers/mon_programme.py",
+		"/Users/anis/ateliers/utils/mod_listes.py",
+		"/Users/anis/ateliers/utils/mod_math.py",
+		"/Users/anis/ateliers/utils/__init__.py",
+		"/Users/anis/ateliers/mon_module.py",
+		"/Users/anis/ateliers/exceptions.py",
+		"/Users/anis/ateliers/exo_identite.py",
+		"/Users/anis/ateliers/exo_b1.py",
+		"/Users/anis/ateliers/tuples.py",
+		"/Users/anis/ateliers/listes.py",
+		"/Users/anis/ateliers/exercices_1_2.py",
+		"/Users/anis/ateliers/premier_prog.py",
+		"/Users/anis/ateliers/test_version.py",
+		"/Users/anis/ateliers/test.py",
+		"/Users/anis/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/anis/Documents/Eclipse/workspace-oxygen-test/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs",
+		"/Users/anis/Downloads/TP1_Raphael.Bouchard.c",
+		"/Users/anis/Downloads/TP1.cpp",
+		"/Users/anis/Downloads/ex3-src-unix/src/pgcd.m",
+		"/Users/anis/MEGA/01_Cours/INF155/2019-3A/TP2/Énoncé/Fichiers fournis/types.h",
+		"/Users/anis/MEGA/01_Cours/INF155/2019-3A/TP2/Énoncé/Fichiers fournis/image.c",
+		"/Users/anis/Downloads/TP1_partie_2.c",
+		"/Users/anis/Downloads/lecture_caracteres_etendus.c",
+		"/Users/anis/Downloads/TP1_depart.cpp",
+		"/Volumes/fsweb/enseignement/lesateliers/html_header.php",
+		"/Volumes/fsweb/enseignement/lesateliers/html_footer.php",
+		"/Volumes/fsweb/enseignement/lesateliers/inscription.php",
+		"/Volumes/FSWEB/enseignement/lesateliers/index.php",
+		"/Volumes/fsweb/enseignement/lesateliers/test.php",
+		"/Volumes/FSWEB/enseignement/lesateliers/source/CAS.php",
+		"/Volumes/FSWEB/enseignement/lesateliers/config.php",
+		"/Users/anis/MEGA/04_Administratif/Coordinnation/Réunions/2019-09-05.txt",
+		"/Users/anis/MEGA/03_ProjetsPédagogiques/Ateliers/SiteWeb/index.html",
+		"/Users/anis/tps/INF155-20193-TP2/challenges/ch19.txt",
+		"/Users/anis/tps/INF155-20193-TP2/pieces/1.txt",
+		"/Users/anis/tps/INF155-20193-TP2/pieces/0.txt",
+		"/Users/anis/tps/INF155-20193-TP2/pieces/2.txt",
+		"/Users/anis/MEGA/Cours/RéunionCC-5Sept2019.txt",
+		"/Users/anis/Desktop/sprinklers.html",
+		"/Users/anis/Downloads/openvpn/VPNConfig.ovpn",
+		"/Users/anis/MEGA/ProjetsPédagogiques/Conférences/SALTISE_2019/plan.txt",
+		"/Users/anis/MEGA/ProjetsPédagogiques/Conférences/SALTISE_2019/Credits_Photos",
+		"/Users/anis/Dev/MTLa/Gui.py",
+		"/Users/anis/Dev/MTLa/QTextEditListener.py",
+		"/Users/anis/Dev/Sprinklers/controller/zone_controller.py",
+		"/Users/anis/AssSynd_8_mai_2019_odj.gdoc",
+		"/Users/anis/MEGA/ProjetsSpéciaux/2019-2020/SiteAmeets/structure_site.txt",
+		"/Users/anis/Downloads/home-2.html",
+		"/Users/anis/Downloads/layout.html",
+		"/Users/anis/Downloads/home.html",
+		"/Users/anis/Downloads/app3-website-blocker.py",
+		"/Users/anis/Downloads/basics.py",
+		"/Users/anis/MEGA/Cours/Idees_TPs.txt",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/script_correction/eq101.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/script_correction/eq109.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/question_par_question/R6_6.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/question_par_question/R6_5.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/question_par_question/R6_4.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/question_par_question/R6_3.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/question_par_question/R6_2.sql",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/script_correction/generate_question_files.py",
+		"/Users/anis/MEGA/Cours/TCH054/2019-1A/Labo2/script_correction/generate_question_files",
+		"/Users/anis/MEGA/Cours/TCH054/Acétates/10-11-12-InterfaceSQL_PLSQL_JDBC/Cours11_exercice2_ldd.sql"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 268.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 92.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 53.0
+	},
+	"output.exec":
+	{
+		"height": 266.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/python3.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 383.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
